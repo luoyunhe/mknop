@@ -63,8 +63,4 @@ jobs:
         with:
           name: ${{ env.firmware_phicomm-n1 }}
           path: out/phicomm-n1
-
-
-
-          name: ${{ env.firmware_vplus }}
-          path: out/vplus
+          
